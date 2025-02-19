@@ -39,8 +39,8 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contributors
 
-- [NyashaEysenck](https://github.com/NyashaEysenck) - Main Contributor
-- [Nkosie17](https://github.com/Nkosie17) - Contributor
+- [NyashaEysenck](https://github.com/NyashaEysenck)
+- [Nkosie17](https://github.com/Nkosie17) 
 
 ## License
 
